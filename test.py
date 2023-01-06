@@ -5,3 +5,4 @@ if 5 % 3 == 0:
 print('kak dela')
 print('kak dela')
 print('kak dela')
+print('Shirzat')
