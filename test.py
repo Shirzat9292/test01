@@ -1,1 +1,1 @@
-print('word')
+print(1+True)
